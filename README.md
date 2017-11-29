@@ -14,3 +14,4 @@ this approach.
 -3 make some changes to a file or create a new file
 -5 `git add your new file or edited file` 
 -6 `git commit -m "this message tells the readers something useful"`
+-7 `git push --set-upstream origin your_name_or_anything/branchname`
