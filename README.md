@@ -15,3 +15,7 @@ this approach.
 5. `git add your new file or edited file` 
 6. `git commit -m "this message tells the readers something useful"`
 7. `git push --set-upstream origin your_name_or_anything/branchname`
+
+If you have trouble pushing to the repo please [Contact Us](https://hacknightlbc.github.io/contact.html) and request to be a collaborator or ping us on the #hacknight [slack channel](http://j.mp/uncoded-slack)
+
+Next time we will go to the next step where you can merge new members' work. 
